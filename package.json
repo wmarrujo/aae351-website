@@ -1,34 +1,24 @@
 {
-  "name": "aae351-website",
-  "version": "0.1.0",
-  "description": "The Website for the final project of the AAE 351 Systems Engineering Design Class",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"No test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wmarrujo/aae351-website.git"
-  },
-  "keywords": [
-    "Aerospace",
-    "System",
-    "Design",
-    "Aero",
-    "Aeronautical",
-    "AAE",
-    "351",
-    "Purdue",
-    "Project"
-  ],
-  "author": "William Marrujo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wmarrujo/aae351-website/issues"
-  },
-  "homepage": "https://github.com/wmarrujo/aae351-website#readme",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+    "name": "aae351-website",
+    "version": "0.1.1",
+    "description": "The Website for the final project of the AAE 351 Systems Engineering Design Class",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wmarrujo/aae351-website.git"
+    },
+    "keywords": ["Aerospace", "System", "Design", "Aero", "Aeronautical", "AAE", "351", "Purdue", "Project"],
+    "author": "William Marrujo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wmarrujo/aae351-website/issues"
+    },
+    "homepage": "https://351.wmarrujo.com",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
 }

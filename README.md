@@ -11,7 +11,7 @@ The server is built in node using express.
 1. get `git`, `npm` & `node`
 2. `clone` this repository with `git`
 3. navigate to the repository directory
-4. `npm install express`
+4. run `npm install`
 
 ### Running
 
