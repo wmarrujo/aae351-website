@@ -6,18 +6,99 @@
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> <!-- Material Icons -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"> <!-- Materialize Styles -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script> <!-- Materialize Functionality -->
+        <link rel="stylesheet" href="/assets/stylesheets/default.css">
         
         <title>AAE 351 Project</title>
     </head>
     <body>
-        <h1>AAE 351 Project</h1>
-        
-        <h2>Team</h2>
-        <ul>
-            <li>William Marrujo</li>
-            <li>Alex Tramm</li>
-            <li>George Xu</li>
-            <li>Ben Ye</li>
-        </ul>
+        <nav class="nav-extended black">
+            <div class="nav-wrapper">
+                <a href="/index.html" class="brand-logo">Ordinance Removal</a>
+                <ul class="right hide-on-med-and-down">
+                    <li><a href="sass.html">AAE 351</a></li>
+                    <li><a href="badges.html">Fall 2018</a></li>
+                    <li><a href="collapsible.html">Team 19</a></li>
+                </ul>
+            </div>
+            <div class="nav-content">
+                <ul class="tabs tabs-transparent">
+                    <li class="tab"><a href="#test1">Introduction</a></li>
+                    <li class="tab"><a href="#test2">Requirements</a></li>
+                    <li class="tab"><a href="#test3">Concepts</a></li>
+                    <li class="tab"><a href="#test4">Solution</a></li>
+                    <li class="tab"><a href="#test4">Reflection</a></li>
+                </ul>
+            </div>
+        </nav>
+        <header class="container center">
+            <h1>Ordinance Removal</h1>
+            
+            <div class="video-container">
+                <video id="video" src="/assets/explosion.mp4" controls></video>
+            </div>
+        </header>
+        <main>
+            <section class="container">
+                <h2 id="summary">Executive Summary</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pellentesque purus sed nibh rhoncus, vitae mollis libero molestie. Mauris ut vulputate nunc. Vestibulum lobortis sapien in magna semper, in venenatis felis sollicitudin. Proin at sodales mi. Morbi lacinia faucibus urna id volutpat. Etiam condimentum accumsan sagittis. Vestibulum nisl leo, molestie eu iaculis ac, vehicula in nisl. Nunc vestibulum auctor lorem sed imperdiet. Suspendisse pretium tempus viverra. Integer varius fermentum varius.</p>
+            </section>
+            <div class="center">
+                <a href="/introduction.html" class="waves-effect waves-light btn-large"><i class="material-icons left">forward</i> Introduction</a>
+            </div>
+        </main>
+        <footer class="page-footer black">
+            <div class="row">
+                <div class="col l2">
+                    <h5><a href="/index.html">Index Page</a></h5>
+                    <ul>
+                        <li><a href="/index.html#video">Video</a></li>
+                        <li><a href="/index.html#summary">Executive Summary</a></li>
+                    </ul>
+                </div>
+                <div class="col l2">
+                    <h5><a href="/introduction.html">Introduction</a></h5>
+                    <ul>
+                        <li><a href="/introduction.html#background">Background</a></li>
+                        <li><a href="/introduction.html#motivation">Motivation</a></li>
+                        <li><a href="/introduction.html#mission">Mission</a></li>
+                        <li><a href="/introduction.html#schedule">Schedule</a></li>
+                        <li><a href="/introduction.html#assumptions">Assumptions</a></li>
+                    </ul>
+                </div>
+                <div class="col l2">
+                    <h5><a href="/requirements.html">Requirements</a></h5>
+                    <ul>
+                        <li><a href="/requirements.html#stakeholders">Stakeholder Analisys</a></li>
+                        <li><a href="/requirements.html#needs">Needs</a></li>
+                        <li><a href="/requirements.html#prioritization">Needs Prioritization</a></li>
+                    </ul>
+                </div>
+                <div class="col l2">
+                    <h5><a href="/concepts.html">Concepts</a></h5>
+                    <ul>
+                        <li><a href="/concepts.html#generation">Concept Generation</a></li>
+                        <li><a href="/concepts.html#selection">Concept Selection</a></li>
+                    </ul>
+                </div>
+                <div class="col l2">
+                    <h5><a href="/solution.html">Solution</a></h5>
+                    <ul>
+                        <li><a href="/solution.html#risk">Risk Assessment</a></li>
+                        <li><a href="/solution.html#fmeca">FMECA</a></li>
+                        <li><a href="/solution.html#faulttree">Fault Tree</a></li>
+                        <li><a href="/solution.html#assessment">Cost and Value Assessment</a></li>
+                        <li><a href="/solution.html#selection">Final Concept</a></li>
+                    </ul>
+                </div>
+                <div class="col l2">
+                    <h5><a href="/reflection.html">Reflection</a></h5>
+                    <ul>
+                        <li><a href="/reflection.html#lessons">Lessons Learnt</a></li>
+                        <li><a href="/reflection.html#next">Final Concept</a></li>
+                        <li><a href="/reflection.html#references">References</a></li>
+                    </ul>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>
