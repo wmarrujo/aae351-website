@@ -9,3 +9,11 @@ footer a {
 footer a:hover {
     color: lightblue;
 }
+
+footer {
+    margin-top: 1.5rem;
+}
+
+footer .row {
+    margin: 0;
+}
