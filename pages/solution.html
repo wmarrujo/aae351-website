@@ -35,21 +35,159 @@
         </header>
         <main class="container">
             <h2>Risk Assessment</h2>
-            <p>Phasellus dictum sit amet orci nec ornare. Proin quis ullamcorper enim, eget egestas augue. Vivamus feugiat vestibulum erat, eget dapibus tortor gravida sed. Mauris consectetur elit et urna efficitur tempus. Sed viverra augue diam, ac efficitur diam condimentum vel. Praesent sagittis egestas libero. Donec porttitor turpis tellus, ac eleifend turpis rhoncus vitae. Vivamus vulputate vel diam vitae congue.</p>
+            
+            <h3>Risks</h3>
+            <ol class="browser-default">
+                <li>Ordinance explodes in vicinity of a person</li>
+                <li>Ordinance explodes when a robot is clearing it</li>
+                <li>Confirming an area clear without it being clear</li>
+                <li>Excessive collateral damage from detonation</li>
+                <li>Excessive pollution from non-detonation disposal</li>
+                <li>Cost overrun</li>
+                <li>Time overrun</li>
+            </ol>
+            
+            <h3>Mitigation & Verification Strategies</h3>
+            <ol>
+                <li>Deploy field personnel only when needed and when an area is deemed sufficiently safe-Follow OSHA procedures for training and safety equipment-Ensure any field personnel are qualified and experienced in UXO disposal.</li>
+                <li>Only execute dangerous tasks like defusal when removal and neutralization are impractical-Make robots standardized and cheap to produce-Ensure robot pilots are qualified and experienced in UXO disposal-make robots durable to minimize damage.</li>
+                <li>Combine multiple verification methods-Multiple checks and sweeps of the area - statistical analysis on these sweeps.</li>
+                <li>Only commit to detonation when other methods are exhausted - ensure area is cleared properly-Use blast shields and containers to absorb blast from small explosives when possible.</li>
+                <li>Ensure heavy metals and toxic compounds from defusal and disassembly are recycled when possible-Disposal of non-recoverable items with OSHA and EPA appropriate methods.</li>
+                <li>Have a budget buffer - have regular budget checks-Raise awareness of the issue and attract extra funding from non-profit and corporate sponsors.</li>
+                <li>Have a set schedule - have milestones and check with them regularly-commit extra personnel and resources when needed.</li>
+            </ol>
+            
+            <h3>Hazard Matrix</h3>
+            <table class="centered responsive-table">
+                <tr>
+                    <th></th>
+                    <th>Marginal</th>
+                    <th>Critical</th>
+                    <th>Catastrophic</th>
+                </tr>
+                <tr>
+                    <th>Probable</th>
+                    <td class="yellow">2</td>
+                    <td class="yellow"></td>
+                    <td class="red"></td>
+                </tr>
+                <tr>
+                    <th>Infrequent</th>
+                    <td class="yellow">4, 5, 6, 7</td>
+                    <td class="yellow"></td>
+                    <td class="yellow"></td>
+                </tr>
+                <tr>
+                    <th>Remote</th>
+                    <td class="green"></td>
+                    <td class="yellow">3</td>
+                    <td class="yellow">1</td>
+                </tr>
+                <tr>
+                    <th>Improbable</th>
+                    <td class="green"></td>
+                    <td class="green"></td>
+                    <td class="yellow"></td>
+                </tr>
+            </table>
             
             <h3>FMECA</h3>
-            <p>In iaculis dolor nec imperdiet maximus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam tristique velit eget gravida molestie. Proin blandit ultricies velit, feugiat cursus mauris gravida quis. Aenean id sagittis ligula. Aliquam iaculis nulla ut est fringilla, nec laoreet enim porta. Maecenas aliquet urna et odio blandit imperdiet at non est. Etiam magna mauris, sodales in metus ac, commodo volutpat mi.</p>
+            <table class="responsive-table">
+                <tr>
+                    <th></th>
+                    <th>Functional or Equipment Purpose</th>
+                    <th>Failure Mode</th>
+                    <th>Failure Mechanism</th>
+                    <th>Failure Detection</th>
+                    <th>Failure Compensation</th>
+                    <th>Failure Effects</th>
+                    <th>Preventive Measures</th>
+                </tr>
+                <tr>
+                    <th>Metal Detector</th>
+                    <td>Find metal ordnance components</td>
+                    <td>Fails to find metal</td>
+                    <td>Electronics failure</td>
+                    <td>Testing with dummy ordnance</td>
+                    <td>Use another metal detector, or manually fix metal detector </td>
+                    <td>Missed ordnance, slower detection</td>
+                    <td>Acquire military grade equipment, replace on recommended schedule</td>
+                </tr>
+                <tr>
+                    <th>Robot Operator</th>
+                    <td>Command robots for disposal</td>
+                    <td>Damages robot</td>
+                    <td>Intoxication, poor proficiency</td>
+                    <td>Drug tests, Skill tests</td>
+                    <td>Replace operator, retrain</td>
+                    <td>Damaged robot, slower disposal</td>
+                    <td>Screen personnel, Robot manufacturer provided training</td>
+                </tr>
+                <tr>
+                    <th>Disposal Robot</th>
+                    <td>Controlled remotely to dispose ordinance</td>
+                    <td>Fails to excavate or neutralize bomb safely</td>
+                    <td>Mechanical failure, electrical failure, Operator error</td>
+                    <td>Mechanical and electrical inspection</td>
+                    <td>Use another robot, or manually fix the robot</td>
+                    <td>Damaged robot, slower disposal, collateral damage</td>
+                    <td>Purchase military grade UXO robots, maintain equipment, provide adequate training</td>
+                </tr>
+                <tr>
+                    <th>Transport robot</th>
+                    <td>Transport ordnance to disposal location</td>
+                    <td>Fails to reliably transport ordnance</td>
+                    <td>Electronic failure, Mechanically breaking down due to age</td>
+                    <td>Routine check ups</td>
+                    <td>Use another robot, or manually fix the robot</td>
+                    <td>Slower transportation</td>
+                    <td>Purchase military grade robots, establish reliable routes</td>
+                </tr>
+                <tr>
+                    <th>Defusal process</th>
+                    <td>Defuse ordnance</td>
+                    <td>Fails to defuse ordnance</td>
+                    <td>Complications in process</td>
+                    <td>Triggering mechanism not disabled</td>
+                    <td>Detonate instead</td>
+                    <td>Slower process, more pollution</td>
+                    <td>Design custom processes for ordnance present</td>
+                </tr>
+                <tr>
+                    <th>Detonation Charge</th>
+                    <td>Detonate ordnance</td>
+                    <td>Fails to detonate ordnance</td>
+                    <td>Yield too small</td>
+                    <td>Ordnance still intact</td>
+                    <td>Use larger charge</td>
+                    <td>Slower process, more pollution, wasted charges</td>
+                    <td>Calculate appropriate amount of charge based on existing UXO documentation</td>
+                </tr>
+                <tr>
+                    <th>Detonation Container</th>
+                    <td>Contain explosion products</td>
+                    <td>Explosive products leaking</td>
+                    <td>Structural failure</td>
+                    <td>Fractures, obvious damage, leaking fumes</td>
+                    <td>Replace container, chemical cleanup of aftermath</td>
+                    <td>Pollution, Extra costs, Possible injury</td>
+                    <td>Only use charges appropriate for chamber size</td>
+                </tr>
+            </table>
             
             <h3>Fault Tree</h3>
-            <p>Aliquam accumsan ipsum et hendrerit dapibus. Fusce consectetur quam vulputate nulla aliquam efficitur. Praesent massa elit, congue quis gravida sed, condimentum tristique nisl. Aenean tincidunt posuere diam in hendrerit. Maecenas tempor lacus id mauris tincidunt, gravida hendrerit libero sollicitudin. Maecenas sodales gravida pulvinar. Sed aliquam, arcu non posuere sodales, metus sapien dictum dolor, ut malesuada felis velit quis ante. Nulla ac imperdiet felis, ac viverra augue.</p>
+            <img src="/assets/images/fault-tree.png" alt="Fault Tree">
             
             <h2>Cost and Value Assessment</h2>
-            <p>Cras condimentum, tellus eget pretium hendrerit, erat mi semper purus, pharetra tincidunt lectus massa quis massa. Nam cursus ex risus, sed varius nisl facilisis sed. Maecenas non est vehicula, pellentesque erat vel, sagittis nisi. Proin id diam sollicitudin, fermentum lorem vel, iaculis magna. Curabitur condimentum velit finibus, facilisis quam ac, tincidunt lacus. Morbi non mi non elit rutrum efficitur sit amet sed dui. Donec eget sapien sed quam venenatis commodo. Cras dolor felis, facilisis pharetra leo eu, tristique dapibus tortor. Sed aliquet gravida accumsan. Pellentesque mi turpis, hendrerit non maximus non, eleifend ac tellus. Vivamus rhoncus diam vel tellus molestie, id auctor lorem cursus. Ut eget scelerisque nisl.</p>
+            <p>According to the USDA, the average cost of farm land in Georgia is $3300/Acre. Assuming our technicians are paid $40 an hour, and 33% of our costs are overhead and maintenance, we must be able to clear land at less than 55 man-hour/acre. This appears to be feasible given sufficient autonomy of our robots. Due to the nature of the mission it is likely to attract funding from non-profit and defense contractors which will further increase sustainability and profitability.</p>
             
             <h2>Final Concept</h2>
-            <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed at erat nisi. Donec in lacinia nulla. Integer tempor feugiat enim, nec luctus eros tincidunt vel. Donec tincidunt velit in sapien sollicitudin elementum. Sed nisl turpis, lobortis sit amet risus ac, mattis faucibus libero. Ut a neque nec felis cursus tristique nec quis leo. Phasellus et libero id elit tempor pretium vel ac neque. Aenean bibendum risus sit amet est interdum eleifend at a quam. Nulla facilisi. Cras mattis lacus posuere fringilla rhoncus. Vivamus nec mattis nulla.</p>
+            <p>The transport robots are the size of a full size pickup truck and with similar terrain accessibility. The disposal robots are the size of a forklift and armed with UXO disposal tools and detonation charges.</p>
+            <p>In a command center at a safe area, an experienced senior UXO disposal technician supervises a 10 trained technicians operating ordnance disposal robots. 20 disposal robots scan terrain in a 100-acre area autonomously with an internal metal detector while relaying visual data to the command center. Upon detection of an ordnance the robot stops and notifies a technician in the command center. The command center can also manually command the robot to stop if a point of interest is seen in the visual feed. The next available technician attempts to identify the ordinance based on visual data and measurements and historical data of the area. The technician then remotely pilots the robot to first attempt defusal, then attempt whole extraction, with the bomb or its disassembled components loaded on one of 10 autonomous transport robot that follows a fixed, isolated route to a site that will recycle those components or detonate the weapon in a secure container. All extracted parts and explosive byproducts are disposed based on EPA and OSHA guidelines. When the weapon cannot be safely extracted, the supervisor is called to authorize the use of an explosive charge to detonate the ordnance on site after retrieving all robots and evacuating personnel. After a disposal robot verifies the ordnance is detonated, the remaining disposal robots are returned to their original tasks. If the bomb has not been detonated the process is repeated with a larger charge.</p>
+            <p>After all bombs found in the initial sweep are removed the 100-acre area is scanned again to verify that all ordnance is removed. Based on the success rate of detection and the amount of ordnance found, the sweep is repeated until statistically the chance of munitions left behind is 0.1% or lower. The disposal robots then clean up any chemical residue from explosions.</p>
         </main>
-        <div class="center">
+        <div id="next" class="center">
             <a href="/reflection.html" class="waves-effect waves-light btn-large"><i class="material-icons left">forward</i> Reflection</a>
         </div>
         <footer class="page-footer black">

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="844px" height="1013px" viewBox="0 0 844 1013" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>House of Quality</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Side" transform="translate(2.000000, 573.000000)" fill="#000000" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300">
+            <text id="No-Injuries-or-Death">
+                <tspan x="0" y="17">No Injuries or Deaths</tspan>
+            </text>
+            <text id="Minimal-Environmenta">
+                <tspan x="0" y="57">Minimal Environmental Damage</tspan>
+            </text>
+            <text id="Low-remaining-articl">
+                <tspan x="0" y="97">Low remaining article impact</tspan>
+            </text>
+            <text id="Practical-Cost">
+                <tspan x="0" y="136">Practical Cost</tspan>
+            </text>
+            <text id="Timely-Cleanup">
+                <tspan x="0" y="176">Timely Cleanup</tspan>
+            </text>
+            <text id="Comply-with-Laws-&amp;-R">
+                <tspan x="0" y="216">Comply with Laws &amp; Regulations</tspan>
+            </text>
+            <text id="Verification-of-Succ">
+                <tspan x="0" y="256">Verification of Success</tspan>
+            </text>
+            <text id="Secure-Disposal-Loca">
+                <tspan x="0" y="296">Secure Disposal Location</tspan>
+            </text>
+            <text id="Secure-Disposal-Mann">
+                <tspan x="0" y="336">Secure Disposal Manner</tspan>
+            </text>
+            <text id="Minimal-Equipment-Da">
+                <tspan x="0" y="376">Minimal Equipment Damage</tspan>
+            </text>
+            <text id="Importance-Rating">
+                <tspan x="0" y="416">Importance Rating</tspan>
+            </text>
+        </g>
+        <g id="Top" transform="translate(272.000000, 287.000000)" fill="#000000" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300">
+            <text id="Importance" transform="translate(10.500000, 144.500000) rotate(-90.000000) translate(-10.500000, -144.500000) ">
+                <tspan x="-121" y="151">Importance</tspan>
+            </text>
+            <text id="Number-of-deaths-or" transform="translate(61.000000, 145.500000) rotate(-90.000000) translate(-61.000000, -145.500000) ">
+                <tspan x="-70.5" y="141.5">Number of deaths or injuries </tspan>
+                <tspan x="-70.5" y="162.5">resulting from clean up</tspan>
+            </text>
+            <text id="Number-of-years-that" transform="translate(121.000000, 139.000000) rotate(-90.000000) translate(-121.000000, -139.000000) ">
+                <tspan x="-18" y="135">Number of years that the sight </tspan>
+                <tspan x="-18" y="156">should go back to natural state</tspan>
+            </text>
+            <text id="Number-of-years-that" transform="translate(180.000000, 138.500000) rotate(-90.000000) translate(-180.000000, -138.500000) ">
+                <tspan x="41.5" y="134.5">Number of years that a community </tspan>
+                <tspan x="41.5" y="155.5">can operate the area after clean up</tspan>
+            </text>
+            <text id="Number-of-incidents" transform="translate(240.000000, 138.500000) rotate(-90.000000) translate(-240.000000, -138.500000) ">
+                <tspan x="101.5" y="134.5">Number of incidents every 10 years </tspan>
+                <tspan x="101.5" y="155.5">after cleanup</tspan>
+            </text>
+            <text id="Falls-under-with-the" transform="translate(300.000000, 138.500000) rotate(-90.000000) translate(-300.000000, -138.500000) ">
+                <tspan x="161.5" y="134.5">Falls under with the budget amount </tspan>
+                <tspan x="161.5" y="155.5">given by the EPA</tspan>
+            </text>
+            <text id="Certainty-that-the-a" transform="translate(540.000000, 138.500000) rotate(-90.000000) translate(-540.000000, -138.500000) ">
+                <tspan x="401.5" y="134.5">Certainty that the area is cleared </tspan>
+                <tspan x="401.5" y="155.5">(%)</tspan>
+            </text>
+            <text id="Number-of-Laws-broke" transform="translate(469.500000, 138.500000) rotate(-90.000000) translate(-469.500000, -138.500000) ">
+                <tspan x="331" y="145">Number of Laws broken</tspan>
+            </text>
+            <text id="Time-(in-years)-for" transform="translate(409.500000, 138.500000) rotate(-90.000000) translate(-409.500000, -138.500000) ">
+                <tspan x="271" y="145">Time (in years) for clean up</tspan>
+            </text>
+            <text id="Cost-solution-compar" transform="translate(349.500000, 138.500000) rotate(-90.000000) translate(-349.500000, -138.500000) ">
+                <tspan x="211" y="145">Cost solution compared to land (%)</tspan>
+            </text>
+        </g>
+        <g id="Horizontal-Lines" transform="translate(2.000000, 271.000000)" fill-rule="nonzero" stroke="#000000" stroke-linecap="square">
+            <path d="M0,301 L840,301" id="Line" stroke-width="4"></path>
+            <path d="M261,1 L840,1" id="Line" stroke-width="4"></path>
+            <path d="M0,341 L840,341" id="Line" stroke-width="2"></path>
+            <path d="M0,381 L840,381" id="Line" stroke-width="2"></path>
+            <path d="M0,421 L840,421" id="Line" stroke-width="2"></path>
+            <path d="M0,461 L840,461" id="Line" stroke-width="2"></path>
+            <path d="M0,501 L840,501" id="Line" stroke-width="2"></path>
+            <path d="M0,541 L840,541" id="Line" stroke-width="2"></path>
+            <path d="M0,581 L840,581" id="Line" stroke-width="2"></path>
+            <path d="M0,621 L840,621" id="Line" stroke-width="2"></path>
+            <path d="M0,661 L840,661" id="Line" stroke-width="2"></path>
+            <path d="M0,701 L840,701" id="Line" stroke-width="4"></path>
+            <path d="M0,741 L840,741" id="Line" stroke-width="2"></path>
+        </g>
+        <g id="Vertical-Lines" transform="translate(262.000000, 273.000000)" fill-rule="nonzero" stroke="#000000" stroke-linecap="square">
+            <path d="M0.5,0 L0.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M100.5,0 L100.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M160.5,0 L160.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M220.5,0 L220.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M280.5,0 L280.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M340.5,0 L340.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M400.5,0 L400.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M460.5,0 L460.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M520.5,0 L520.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M580.5,0 L580.5,738" id="Line-2" stroke-width="2"></path>
+            <path d="M40.5,0 L40.5,738" id="Line-2" stroke-width="4"></path>
+        </g>
+        <text id="4" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="589">4</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="629">3</tspan>
+        </text>
+        <text id="4" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="669">4</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="709">1</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="749">1</tspan>
+        </text>
+        <text id="4" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="789">4</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="829">3</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="869">3</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="909">3</tspan>
+        </text>
+        <text id="2" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="277.996" y="949">2</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="327.996" y="589">9</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="417.996" y="181">3</tspan>
+        </text>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="417.996" y="240">6</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="477.996" y="240">9</tspan>
+        </text>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="567.996" y="29">6</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="657.996" y="118">9</tspan>
+        </text>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="627.996" y="148">6</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="657.996" y="178">1</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="687.996" y="208">1</tspan>
+        </text>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="537.996" y="60">6</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="567.996" y="88">1</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="597.996" y="58">3</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="537.996" y="118">3</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="597.996" y="118">1</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="567.996" y="148">1</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="327.996" y="789">3</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="327.996" y="829">3</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="327.996" y="869">1</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="327.996" y="909">1</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="387.996" y="629">9</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="387.996" y="669">3</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="387.996" y="829">1</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="447.996" y="829">3</tspan>
+        </text>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="507.996" y="589">6</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="507.996" y="669">9</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="507.996" y="789">1</tspan>
+        </text>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="507.996" y="829">6</tspan>
+        </text>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="567.996" y="709">6</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="567.996" y="829">1</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="567.996" y="949">3</tspan>
+        </text>
+        <text id="9" opacity="0.900000036" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="627.996" y="709">9</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="627.996" y="829">1</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="627.996" y="949">3</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="687.996" y="749">9</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="687.996" y="829">3</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="747.996" y="629">1</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="747.996" y="669">1</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="747.996" y="789">9</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="747.996" y="829">1</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="747.996" y="869">3</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="747.996" y="909">3</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="807.996" y="589">1</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="807.996" y="669">9</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="807.996" y="789">3</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="807.996" y="829">9</tspan>
+        </text>
+        <text id="63" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="322.992" y="989">63</tspan>
+        </text>
+        <text id="42" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="382.992" y="989">42</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="447.996" y="989">9</tspan>
+        </text>
+        <text id="82" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="502.992" y="989">82</tspan>
+        </text>
+        <text id="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="562.992" y="989">15</tspan>
+        </text>
+        <text id="18" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="622.992" y="989">18</tspan>
+        </text>
+        <text id="18" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="682.992" y="989">18</tspan>
+        </text>
+        <text id="64" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="742.992" y="989">64</tspan>
+        </text>
+        <text id="79" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="802.992" y="989">79</tspan>
+        </text>
+        <path d="M303,272 L573,2" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M483,272 L663,92" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M543,272 L692,121" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M603,272 L722.5,151" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M663,272 L753,181.5" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M723,272 L783,211" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M783,272 L813,241.5" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M363,272 L602.5,31" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M423,272 L632,61" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M842,272 L572,2" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M782,272 L543,30" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M722,272 L513,60" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M662,272 L483,91" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M602,272 L453,121" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M542,272 L423,150" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M482,272 L393,181.5" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M422,272 L362,211" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <path d="M362,272 L333,241.5" id="Line-3" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+        <text id="6" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="627.996" y="88">6</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="627.996" y="208">3</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="657.996" y="238">3</tspan>
+        </text>
+        <text id="3" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="747.996" y="208">3</tspan>
+        </text>
+        <text id="1" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="777.996" y="238">1</tspan>
+        </text>
+        <text id="9" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="18" font-weight="300" fill="#000000">
+            <tspan x="597.996" y="238">9</tspan>
+        </text>
+    </g>
+</svg>
